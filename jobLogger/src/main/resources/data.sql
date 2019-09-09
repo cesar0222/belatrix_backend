@@ -1,0 +1,1 @@
+INSERT INTO TBL_LOG_VALUES (logMessage, logType) VALUES ('Prueba', 1);
